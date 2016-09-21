@@ -1,0 +1,51 @@
+<XtEvents>
+<XtEventTypes>
+<XtEventType Id="0" Type="2" Name="SIN_VALUE" Units="ps" UserType="3" UserUnits="Value"/>
+<XtEventType Id="1" Type="2" Name="COS_VALUE" Units="ps" UserType="3" UserUnits="Value"/>
+<XtEventType Id="2" Type="2" Name="TAN_VALUE" Units="ps" UserType="3" UserUnits="Value"/>
+<XtEventType Id="255" Type="1" Name="Missing Data" Units="ps" UserType="0" UserUnits="None"/>
+</XtEventTypes>
+<XtEventColors>
+<XtEventColor Id="0" R="148" G="0" B="211" KeyText="None"/>
+<XtEventColor Id="1" R="255" G="69" B="0" KeyText="None"/>
+<XtEventColor Id="2" R="218" G="165" B="32" KeyText="None"/>
+<XtEventColor Id="255" R="255" G="0" B="0" KeyText="None"/>
+</XtEventColors>
+<XtGlobalStart MilliSecs="1432291088540"/>
+<TotalXtEvents Number="0"/>
+<XtEventRecords>
+<Record Type="0" Color="0" Start="0" End="0" User="32.000000"/>
+<Record Type="0" Color="0" Start="1000720000" End="1000720000" User="35.000000"/>
+<Record Type="0" Color="0" Start="2001440000" End="2001440000" User="38.000000"/>
+<Record Type="0" Color="0" Start="3002160000" End="3002160000" User="41.000000"/>
+<Record Type="0" Color="0" Start="4002880000" End="4002880000" User="44.000000"/>
+<Record Type="0" Color="0" Start="5003600000" End="5003600000" User="47.000000"/>
+<Record Type="0" Color="0" Start="6004320000" End="6004320000" User="49.000000"/>
+<Record Type="0" Color="0" Start="7005040000" End="7005040000" User="52.000000"/>
+<Record Type="0" Color="0" Start="8005760000" End="8005760000" User="54.000000"/>
+<Record Type="0" Color="0" Start="9006480000" End="9006480000" User="56.000000"/>
+<Record Type="0" Color="0" Start="10007200000" End="10007200000" User="58.000000"/>
+<Record Type="0" Color="0" Start="11007920000" End="11007920000" User="59.000000"/>
+<Record Type="0" Color="0" Start="12008640000" End="12008640000" User="61.000000"/>
+<Record Type="0" Color="0" Start="13009360000" End="13009360000" User="62.000000"/>
+</XtEventRecords>
+</XtEvents>
+="14010080000" End="14010080000" User="62.000000"/>
+<Record Type="0" Color="0" Start="15010800000" End="15010800000" User="63.000000"/>
+<Record Type="0" Color="0" Start="16011520000" End="16011520000" User="63.000000"/>
+<Record Type="0" Color="0" Start="17012240000" End="17012240000" User="63.000000"/>
+<Record Type="0" Color="0" Start="18012960000" End="18012960000" User="62.000000"/>
+<Record Type="0" Color="0" Start="19013680000" End="19013680000" User="62.000000"/>
+<Record Type="0" Color="0" Start="20014400000" End="20014400000" User="61.000000"/>
+<Record Type="0" Color="0" Start="21015120000" End="21015120000" User="59.000000"/>
+<Record Type="0" Color="0" Start="22015840000" End="22015840000" User="58.000000"/>
+<Record Type="0" Color="0" Start="23016560000" End="23016560000" User="56.000000"/>
+<Record Type="0" Color="0" Start="24017280000" End="24017280000" User="54.000000"/>
+<Record Type="0" Color="0" Start="25018000000" End="25018000000" User="52.000000"/>
+<Record Type="0" Color="0" Start="26018720000" End="26018720000" User="49.000000"/>
+<Record Type="0" Color="0" Start="27019440000" End="27019440000" User="47.000000"/>
+<Record Type="0" Color="0" Start="28020160000" End="28020160000" User="44.000000"/>
+<Record Type="0" Color="0" Start="29020880000" End="29020880000" User="41.000000"/>
+<Record Type="0" Color="0" Start="30021600000" End="30021600000" User="38.000000"/>
+</XtEventRecords>
+</XtEvents>
